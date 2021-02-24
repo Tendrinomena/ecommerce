@@ -1,2 +1,2 @@
-# ecommerce
-an ecommerce website created by anitah and raphael
+# E-commerce
+An e-commerce website created by Anitah and Raphael
